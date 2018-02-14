@@ -14,6 +14,8 @@ namespace TesteGit {
 
             Console.WriteLine("Obrigado por utilizar o programa!");
 
+            Console.ReadKey();
+
         }
     }
 }
