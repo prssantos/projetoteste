@@ -12,6 +12,8 @@ namespace TesteGit {
 
             Console.WriteLine("Documento de Teste");
 
+            Console.WriteLine("Obrigado por utilizar o programa!");
+
         }
     }
 }
