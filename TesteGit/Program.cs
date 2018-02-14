@@ -10,6 +10,8 @@ namespace TesteGit {
 
             Console.WriteLine("Seja Bem-vindo!");
 
+            Console.WriteLine("Documento de Teste");
+
         }
     }
 }
